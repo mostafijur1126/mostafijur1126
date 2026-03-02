@@ -1,16 +1,71 @@
-## Hi there 👋
+# 👋 Hi, I'm Mostafijur Rahman
 
-<!--
-**mostafijur1126/mostafijur1126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Frontend Web Developer | JavaScript Enthusiast
 
-Here are some ideas to get you started:
+I am passionate about building interactive and user-friendly web applications.  
+Currently focusing on **JavaScript, API Integration, and Modern Web Development**.
 
-- 🔭 I’m currently working on web devlopment.
-- 🌱 I’m currently learning java script,
-- 👯 I’m looking to collaborate on Deltadigivast.
-- 🤔 I’m looking for help with Coding
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🌱 Currently learning: Advanced JavaScript & React
+- 🔥 Practicing: API, Fetch, ES6, DOM Manipulation
+- 🎯 Goal: Become a Professional Full Stack Developer
+- 📍 Based in: Bangladesh
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 💻 Frontend
+- HTML5
+- CSS3
+- Tailwind CSS
+- JavaScript (ES6+)
+
+### ⚙️ Concepts
+- DOM Manipulation
+- Fetch API
+- Array Methods (map, filter, reduce)
+- Async / Await
+- JSON Handling
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 User API Project
+- Fetch API integration
+- Dynamic DOM rendering
+- Data filtering & mapping
+
+### 🔹 Product Filter App
+- Search & filter functionality
+- Clean UI with Tailwind
+- Array methods implementation
+
+### 🔹 Student Management System
+- Add / Delete functionality
+- Reduce for total calculation
+- Organized code structure
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mostafijur1126&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafijur1126&layout=compact&theme=tokyonight)
+
+---
+
+## 📈 Current Focus
+
+```javascript
+const developer = {
+  name: "Mostafijur Rahman",
+  learning: ["React", "Advanced JavaScript", "Backend Basics"],
+  goal: "Full Stack Developer",
+  dedication: "Consistent Practice Everyday 🚀"
+};
