@@ -22,14 +22,3 @@ const mostafijur = {
   location: "Bangladesh",
   mindset: "Consistency + Clean Code 🚀"
 };
-
-
-🚀 Stay Consistent on GitHub
-
-📫 Connect With Me
-
-💼 LinkedIn: (Add your link)
-
-🌐 Portfolio: (Add your link)
-
-📧 Email: (Optional)
