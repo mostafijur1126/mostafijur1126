@@ -50,11 +50,14 @@ A responsive web application built during my learning journey.
 ---
 
 # 📊 GitHub Stats:
-<div align="center">
+<div>
+  <a href="https://beacons.ai/mostafijur1126">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mostafijur1126&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafijur1126&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
+<div align="left">
   
-![](https://github-readme-stats.vercel.app/api?username=mostafijur1126&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mostafijur1126&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafijur1126&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=mostafijur1126&theme=tokyonight&hide_border=false)
 </div>
 
 ## 🌐 Socials:
