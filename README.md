@@ -33,31 +33,12 @@
 - 🔗 Working with **APIs**
 - 🧠 Improving **JavaScript problem-solving skills**
 
----
-## 📂 Featured Projects
-
-### 🌱 Green Earth Project
-A responsive web application built during my learning journey.
-
-**Technologies Used**
-- HTML
-- Tailwind CSS
-- JavaScript
-- DaisyUI
-
-🔗 Live Demo:(https://mostafijur1126.github.io/Green-earth/)
-
----
-
 # 📊 GitHub Stats:
-<div>
-  <a href="https://beacons.ai/mostafijur1126">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mostafijur1126&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafijur1126&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
-<div align="left">
-  
-![](https://nirzak-streak-stats.vercel.app/?user=mostafijur1126&theme=tokyonight&hide_border=false)
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aminulislam98&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=f59e0b&area=true&area_color=1e1b4b&hide_border=true&radius=12&custom_title=Contribution%20Graph"/>
+
+<br/>
 </div>
 
 ## 🌐 Socials:
