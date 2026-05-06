@@ -36,7 +36,7 @@
 # 📊 GitHub Stats:
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aminulislam98&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=f59e0b&area=true&area_color=1e1b4b&hide_border=true&radius=12&custom_title=Contribution%20Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mostafijur1126&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=f59e0b&area=true&area_color=1e1b4b&hide_border=true&radius=12&custom_title=Contribution%20Graph"/>
 
 <br/>
 </div>
