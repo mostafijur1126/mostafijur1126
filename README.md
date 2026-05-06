@@ -36,10 +36,15 @@
 # 📊 GitHub Stats:
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mostafijur1126&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=f59e0b&area=true&area_color=1e1b4b&hide_border=true&radius=12&custom_title=Contribution%20Graph"/>
+<img width="100%" src="https://streak-stats.demolab.com?user=mostafijur1126&hide_border=true&background=0f0f23&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1&sideLabels=6b7280&dates=6b7280&currStreakNum=e0e7ff&sideNums=e0e7ff&border_radius=12"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mostafijur1126&bg_color=0f0f23&color=a5b4fc&line=6366f1&point=e0e7ff&area=true&area_color=312e81&hide_border=true&radius=12&custom_title=Contribution%20Graph"/>
 
 <br/>
+
+
 </div>
+<br/>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mostafijur1126) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafijur1126) 
