@@ -26,14 +26,26 @@
 
 <br/>
 
-
 </div>
 <br/>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mostafijur1126) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafijur1126) 
+## 🤝 Connect
 
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafijur1126)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafijur1126@gmail.com)
+&nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mostafijur1126)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=mostafijur1126&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<br/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ⭐ **I believe consistency beats talent.  
 Every day I write code, learn something new, and move one step closer to my goal.**
