@@ -1,74 +1,67 @@
-<!-- ===== Animated Typing Header ===== -->
+<!-- Wave Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Mostafijur+Rahman;Frontend+Web+Developer;JavaScript+Enthusiast;Future+Full+Stack+Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi%20I'm%20Mostafijur%20Rahman&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
+<!-- Typing Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20GitHub.;Nice%20to%20meet%20you!&center=true&size=28&color=00ADB5&pause=1000&width=700&font=Montserrat">
+</h1>
+
+<br/>
+<br/>
 
 
-## 🚀 About Me
-
-- 🔭 Hey, I’m Mostafijur Rahman, a Full stack developer **
-- 🧠 Practicing coding **every day**
-- 🎯 My mission is to become a **Professional Full Stack Developer**
-
----
-## 🛠️ Skills
-
-<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-
-<!-- Languages -->
-<div style="flex: 1 1 280px; border: 1px solid #e5e5e5; border-radius: 12px; padding: 16px;">
-
-### 💻 Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
+<div align="center">
+  <strong>
+    Frontend-Focused MERN Stack Developer 👋 | Building Responsive, User-Centric Web Applications with React, Next.js, Node.js, Express.js, and MongoDB 💻 | Passionate About Clean Code, Modern UI/UX, and Solving Real-World Problems 🚀
+  </strong>
 </div>
 
-<!-- Frontend -->
-<div style="flex: 1 1 280px; border: 1px solid #e5e5e5; border-radius: 12px; padding: 16px;">
+<br/>
 
-### 🌐 Frontend
+<hr/>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
+<!-- Coding GIF -->
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
+
+### 🧠 Talking about Me:
+
+- 🛠 I’m working with **JS, React, Next.js, Node.js, Express, MongoDB**  
+- 🎮 I build **Full-stack web applications**  
+- 🚀 Currently improving through **real-world projects & problem solving**  
+- 📫 Reach me at: **mostafijur1126@gmail.com**  
+
+
+### 🧩 What I Love:
+- 💻 Building interactive Web Applications 
+- 🎯 Solving real-world problems with code  
+- 📚 Learning new Technologies  
+
+<br/>
+
+<h2 align="center">🔥 Tech Stack 🔥</h2>
+
+<div align="center">
+  <code><img title="JavaScript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+  <code><img title="React" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
+  <code><img title="Next.js" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></code>
+  <code><img title="Node.js" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
+  <code><img title="Express.js" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"></code>
+  <code><img title="MongoDB" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
+  <code><img title="HTML5" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+  <code><img title="CSS3" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+  <code><img title="Tailwind CSS" height="25" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
+  <code><img title="JWT" height="25" src="https://jwt.io/img/pic_logo.svg"></code>
+  <code><img title="Git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+  <code><img title="GitHub" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
+  <code><img title="Figma" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
+  <code><img title="Postman" height="25" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
+  <code><img title="VS Code" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
 </div>
 
-<!-- Backend -->
-<div style="flex: 1 1 280px; border: 1px solid #e5e5e5; border-radius: 12px; padding: 16px;">
-
-### ⚙️ Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express)
-
-</div>
-
-<!-- Databases -->
-<div style="flex: 1 1 280px; border: 1px solid #e5e5e5; border-radius: 12px; padding: 16px;">
-
-### 🗄️ Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
-
-</div>
-
-<!-- Tools -->
-<div style="flex: 1 1 280px; border: 1px solid #e5e5e5; border-radius: 12px; padding: 16px;">
-
-### 🔧 Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel)
-
-</div>
-
-</div>
-
-</div>
+<br/>
+<br/>
 
 ---
 
@@ -96,7 +89,7 @@
 ## 🌍 Portfolio
 
 <div>
-  <a href="https://tanjiya.vercel.app/">
+  <a href="https://portfolio-self-two-2hpizssbkx.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-black?style=for-the-badge&logo=vercel"/>
   </a>
 </div>
